@@ -1,0 +1,2069 @@
+{
+  "Aesir": {
+    "Baldr": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "passion (love, peace)",
+        "2": "health",
+        "3": "epic stamina",
+        "4": "sun",
+        "5": "wyrd"
+      }
+    },
+    "Bragi": {
+      "callings": {
+        "0": "Creator",
+        "1": "Guardian",
+        "2": "Sage"
+      },
+      "purviews": {
+        "0": "Wyrd",
+        "1": "Artistry (Storytelling, Poetry, Song)",
+        "2": "Epic Dexterity",
+        "3": "Fortune",
+        "4": "Passion (Joy)"
+      }
+    },
+    "Freya": {
+      "callings": {
+        "0": "lover",
+        "1": "guardian",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "death",
+        "2": "epic stamina",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "passion (love, lust)",
+        "6": "war",
+        "7": "wyrd"
+      }
+    },
+    "Freyr": {
+      "callings": {
+        "0": "lover",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "fertility",
+        "2": "order",
+        "3": "war",
+        "4": "wild",
+        "5": "wyrd"
+      }
+    },
+    "Frigg": {
+      "callings": {
+        "0": "sage",
+        "1": "guardian",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "beasts (falcon)",
+        "1": "fortune",
+        "2": "order",
+        "3": "wild",
+        "4": "wyrd"
+      }
+    },
+    "Heimdall": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "hunter"
+      },
+      "purviews": {
+        "0": "artistry (horns)",
+        "1": "beauty",
+        "2": "epic stamina",
+        "3": "journeys",
+        "4": "wyrd"
+      }
+    },
+    "Hel": {
+      "callings": {
+        "0": "liminal",
+        "1": "guardian",
+        "2": "judge "
+      },
+      "purviews": {
+        "0": "death",
+        "1": "frost",
+        "2": "forge",
+        "3": "passion (fear, disgust)",
+        "4": "health",
+        "5": "wyrd"
+      }
+    },
+    "Loki": {
+      "callings": {
+        "0": "liminal",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "deception",
+        "1": "chaos",
+        "2": "fire",
+        "3": "epic strength",
+        "4": "wyrd"
+      }
+    },
+    "Njordr": {
+      "callings": {
+        "0": "creator",
+        "1": "hunter",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "fertility",
+        "1": "fire",
+        "2": "journeys",
+        "3": "prosperity",
+        "4": "sky",
+        "5": "water",
+        "6": "wyrd"
+      }
+    },
+    "Odin": {
+      "callings": {
+        "0": "leader",
+        "1": "sage",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "fortune",
+        "1": "journeys",
+        "2": "war",
+        "3": "artistry (poetry)",
+        "4": "death",
+        "5": "deception",
+        "6": "epic stamina",
+        "7": "wyrd"
+      }
+    },
+    "Sif": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "earth",
+        "2": "fertility",
+        "3": "order",
+        "4": "wyrd"
+      }
+    },
+    "Skadi": {
+      "callings": {
+        "0": "hunter",
+        "1": "warrior",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "epic dexterity",
+        "2": "journeys",
+        "3": "order",
+        "4": "frost",
+        "5": "wyrd"
+      }
+    },
+    "Thor": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic stamina",
+        "2": "fertility",
+        "3": "sky",
+        "4": "wyrd"
+      }
+    },
+    "Tyr": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "order",
+        "2": "passion (courage)",
+        "3": "war",
+        "4": "wyrd"
+      }
+    }
+  },
+  "Deva": {
+    "Agni": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "fire",
+        "3": "journeys",
+        "4": "prosperity",
+        "5": "water",
+        "6": "yoga"
+      }
+    },
+    "Durga": {
+      "callings": {
+        "0": "guardian",
+        "1": "hunter",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "deception",
+        "4": "fertility",
+        "5": "war",
+        "6": "yoga"
+      }
+    },
+    "Ganesha": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (dance, writing)",
+        "1": "beasts (elephants)",
+        "2": "chaos",
+        "3": "fortune",
+        "4": "journeys",
+        "5": "prosperity",
+        "6": "yoga"
+      }
+    },
+    "Indra": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "beasts (cattle)",
+        "3": "fertility",
+        "4": "order",
+        "5": "wild",
+        "6": "sky",
+        "7": "war",
+        "8": "yoga"
+      }
+    },
+    "Kali": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "artistry (dance)",
+        "4": "chaos",
+        "5": "darkness",
+        "6": "death",
+        "7": "deception",
+        "8": "fire",
+        "9": "yoga"
+      }
+    },
+    "Karttikeya": {
+      "callings": {
+        "0": "leader",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "beauty",
+        "4": "stars",
+        "5": "war",
+        "6": "yoga"
+      }
+    },
+    "Lakshmi": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "beauty",
+        "2": "earth",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "order",
+        "6": "passion (joy, love)",
+        "7": "prosperity",
+        "8": "yoga"
+      }
+    },
+    "Parvati": {
+      "callings": {
+        "0": "creator",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic stamina",
+        "2": "artistry (dance)",
+        "3": "beauty",
+        "4": "earth",
+        "5": "fertility",
+        "6": "frost",
+        "7": "passion (devotion, love)",
+        "8": "yoga"
+      }
+    },
+    "Sarasvati": {
+      "callings": {
+        "0": "creator",
+        "1": "healer",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "artistry",
+        "3": "health",
+        "4": "water",
+        "5": "yoga"
+      }
+    },
+    "Shiva": {
+      "callings": {
+        "0": "hunter",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "artistry (dance)",
+        "4": "beasts (monkeys)",
+        "5": "chaos",
+        "6": "death",
+        "7": "deception",
+        "8": "fertility",
+        "9": "fire",
+        "10": "moon",
+        "11": "sky",
+        "12": "yoga"
+      }
+    },
+    "Surya": {
+      "callings": {
+        "0": "healer",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "fire",
+        "3": "health",
+        "4": "journeys",
+        "5": "stars",
+        "6": "sun",
+        "7": "yoga"
+      }
+    },
+    "Varuna": {
+      "callings": {
+        "0": "guardian",
+        "1": "judge",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "darkness",
+        "2": "fertility",
+        "3": "order",
+        "4": "sky",
+        "5": "sun",
+        "6": "water",
+        "7": "yoga"
+      }
+    },
+    "Vishnu": {
+      "callings": {
+        "0": "guardian",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "artistry (dance, wind instruments)",
+        "4": "beauty",
+        "5": "deception",
+        "6": "order",
+        "7": "passion (hope)",
+        "8": "yoga"
+      }
+    },
+    "Yamaraja": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "epic dexterity",
+        "1": "epic stamina",
+        "2": "darkness",
+        "3": "death",
+        "4": "journeys",
+        "5": "order",
+        "6": "yoga"
+      }
+    },
+    "Vishvakarman": {
+      "callings": {
+        "0": "Creator",
+        "1": "Guardian",
+        "2": "Liminal"
+      },
+      "purviews": {
+        "0": "Artistry (All)",
+        "1": "Beasts (Doves)",
+        "2": "Chaos",
+        "3": "Forge",
+        "4": "Order",
+        "5": "Prosperity",
+        "6": "Yoga"
+      }
+    }
+  },
+  "Kami": {
+    "Ama-no-Uzume": {
+      "callings": {
+        "0": "lover",
+        "1": "liminal",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "artistry (dance, singing)",
+        "1": "deception",
+        "2": "passion (mirth, lust)",
+        "3": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Amaterasu": {
+      "callings": {
+        "0": "leader",
+        "1": "judge",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "fertility",
+        "2": "order",
+        "3": "prosperity",
+        "4": "sun",
+        "5": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Benzaiten": {
+      "callings": {
+        "0": "creator",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (snake)",
+        "1": "artistry",
+        "2": "beauty",
+        "3": "fortune",
+        "4": "fertility",
+        "5": "stars",
+        "6": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Bishamon": {
+      "callings": {
+        "0": "guardian",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic dexterity",
+        "1": "fortune",
+        "2": "prosperity",
+        "3": "war",
+        "4": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Ebisu": {
+      "callings": {
+        "0": "hunter",
+        "1": "liminal",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "beasts (fish, sharks, and whales)",
+        "1": "epic stamina",
+        "2": "fortune",
+        "3": "prosperity",
+        "4": "wild",
+        "5": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Fukurokuju": {
+      "callings": {
+        "0": "healer",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (deer, turtle, crane)",
+        "1": "epic stamina",
+        "2": "fortune",
+        "3": "health",
+        "4": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Hachiman": {
+      "callings": {
+        "0": "leader",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry",
+        "1": "beasts (dove)",
+        "2": "order",
+        "3": "prosperity",
+        "4": "war",
+        "5": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Hotei": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "chaos",
+        "1": "fortune",
+        "2": "journeys",
+        "3": "passion (joy)",
+        "4": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Inari": {
+      "callings": {
+        "0": "creator",
+        "1": "healer",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "beasts (fox)",
+        "1": "fertility",
+        "2": "fortune",
+        "3": "journeys",
+        "4": "prosperity",
+        "5": "health",
+        "6": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Kisshoten": {
+      "callings": {
+        "0": "guardian",
+        "1": "healer",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "fortune",
+        "2": "health",
+        "3": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Okuninushi": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "beasts (all)",
+        "1": "darkness",
+        "2": "earth",
+        "3": "fortune",
+        "4": "prosperity",
+        "5": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Sarutahiko": {
+      "callings": {
+        "0": "liminal",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (monkey)",
+        "1": "earth",
+        "2": "journeys ",
+        "3": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Susano-O": {
+      "callings": {
+        "0": "creator",
+        "1": "trickster",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (poetry)",
+        "1": "chaos",
+        "2": "death",
+        "3": "epic strength",
+        "4": "forge",
+        "5": "sky",
+        "6": "water",
+        "7": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Takemikazuchi": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (deer)",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "epic strength",
+        "4": "sky",
+        "5": "war",
+        "6": "yaoyorozu-no-kamigami"
+      }
+    },
+    "Tsukiyomi": {
+      "callings": {
+        "0": "liminal",
+        "1": "judge",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "artistry",
+        "1": "darkness",
+        "2": "moon",
+        "3": "order",
+        "4": "yaoyorozu-no-kamigami"
+      }
+    }
+  },
+  "Manitou": {
+    "Cheeby-aub-oozoo": {
+      "callings": {
+        "0": "liminal",
+        "1": "hunter",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "beasts (wolf )",
+        "1": "death",
+        "2": "epic stamina",
+        "3": "artistry (song, music)",
+        "4": "order",
+        "5": "darkness",
+        "6": "dodaem"
+      }
+    },
+    "Muzzu-Kumik-Quae": {
+      "callings": {
+        "0": "healer",
+        "1": "sage",
+        "2": "hunter"
+      },
+      "purviews": {
+        "0": "beasts (all)",
+        "1": "fertility",
+        "2": "earth",
+        "3": "sky",
+        "4": "water ",
+        "5": "wild",
+        "6": "dodaem"
+      }
+    },
+    "Geezhigo-Quae": {
+      "callings": {
+        "0": "guardian",
+        "1": "sage",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "moon",
+        "1": "sky",
+        "2": "stars",
+        "3": "beasts (crane, turtle)",
+        "4": "order",
+        "5": "dodaem"
+      }
+    },
+    "Ioskeha": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "forge",
+        "1": "sun",
+        "2": "sky",
+        "3": "order",
+        "4": "beasts (diurnal mammals and birds, insects, and fish)",
+        "5": "health",
+        "6": "passion (all light emotions)",
+        "7": "dodaem"
+      }
+    },
+    "Maudjee-Kawiss": {
+      "callings": {
+        "0": "warrior",
+        "1": "leader",
+        "2": "hunter"
+      },
+      "purviews": {
+        "0": "beasts (bear, eagle)",
+        "1": "epic strength",
+        "2": "epic dexterity",
+        "3": "war",
+        "4": "dodaem"
+      }
+    },
+    "Nana'b'oozoo": {
+      "callings": {
+        "0": "trickster",
+        "1": "hunter",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (rabbit, or wolf for wisakedjak)",
+        "1": "chaos (water for wisakedjak)",
+        "2": "epic dexterity",
+        "3": "fortune",
+        "4": "journeys",
+        "5": "dodaem"
+      }
+    },
+    "Pukawiss": {
+      "callings": {
+        "0": "trickster",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic dexterity",
+        "1": "artistry (dance, acting, storytelling)",
+        "2": "passion (mirth)",
+        "3": "fortune",
+        "4": "deception",
+        "5": "dodaem"
+      }
+    },
+    "Tawiscara": {
+      "callings": {
+        "0": "creator",
+        "1": "trickster",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "chaos",
+        "1": "deception",
+        "2": "darkness",
+        "3": "death",
+        "4": "passion (all dark emotions)",
+        "5": "forge",
+        "6": "war",
+        "7": "dodaem"
+      }
+    },
+    "Winonah": {
+      "callings": {
+        "0": "guardian",
+        "1": "lover",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "health",
+        "1": "passion",
+        "2": "prosperity",
+        "3": "epic stamina",
+        "4": "fortune",
+        "5": "dodaem"
+      }
+    }
+  },
+  "Netjer": {
+    "Anpu": {
+      "callings": {
+        "0": "guardian",
+        "1": "judge",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "beasts (jackal)",
+        "1": "darkness",
+        "2": "death",
+        "3": "order",
+        "4": "heku"
+      }
+    },
+    "Aset": {
+      "callings": {
+        "0": "guardian",
+        "1": "healer",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "beasts (kite, serpent)",
+        "1": "death",
+        "2": "deception",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "health",
+        "6": "stars",
+        "7": "heku"
+      }
+    },
+    "Bast": {
+      "callings": {
+        "0": "hunter",
+        "1": "guardian",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (dance, music)",
+        "1": "beasts (cats, lions)",
+        "2": "epic dexterity",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "health",
+        "6": "moon",
+        "7": "sun",
+        "8": "war",
+        "9": "heku"
+      }
+    },
+    "Djehuty": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (baboon, ibis)",
+        "1": "deception",
+        "2": "health",
+        "3": "fortune",
+        "4": "moon",
+        "5": "order",
+        "6": "heku"
+      }
+    },
+    "Heru": {
+      "callings": {
+        "0": "leader",
+        "1": "guardian",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (falcon)",
+        "1": "moon",
+        "2": "order",
+        "3": "sky",
+        "4": "sun",
+        "5": "war",
+        "6": "heku"
+      }
+    },
+    "Het-Heru": {
+      "callings": {
+        "0": "creator",
+        "1": "lover",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "artistry (music, dance)",
+        "1": "beasts (cow)",
+        "2": "beauty",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "passion (love)",
+        "6": "sky",
+        "7": "heku"
+      }
+    },
+    "Khnum": {
+      "callings": {
+        "0": "creator",
+        "1": "healer",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (dance, pottery)",
+        "1": "beasts (ram)",
+        "2": "earth",
+        "3": "health",
+        "4": "water ",
+        "5": "heku"
+      }
+    },
+    "Ptah": {
+      "callings": {
+        "0": "creator",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (bull)",
+        "1": "fire",
+        "2": "forge",
+        "3": "prosperity",
+        "4": "heku"
+      }
+    },
+    "Re": {
+      "callings": {
+        "0": "creator",
+        "1": "judge",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "beasts (falcon, scarab, ram)",
+        "1": "death",
+        "2": "journeys",
+        "3": "fire",
+        "4": "order",
+        "5": "epic stamina",
+        "6": "sun",
+        "7": "heku"
+      }
+    },
+    "Set": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "beasts (salawa, fish)",
+        "1": "chaos",
+        "2": "earth",
+        "3": "epic strength",
+        "4": "journeys",
+        "5": "sky",
+        "6": "war",
+        "7": "heku"
+      }
+    },
+    "Sobek": {
+      "callings": {
+        "0": "guardian",
+        "1": "hunter",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "beasts (crocodile)",
+        "1": "epic stamina",
+        "2": "fertility",
+        "3": "passion (lust)",
+        "4": "water",
+        "5": "heku"
+      }
+    },
+    "Wesir": {
+      "callings": {
+        "0": "creator",
+        "1": "judge",
+        "2": "leader "
+      },
+      "purviews": {
+        "0": "beasts (ram, centipede)",
+        "1": "death",
+        "2": "earth",
+        "3": "fertility",
+        "4": "order",
+        "5": "heku"
+      }
+    }
+  },
+  "Orisha": {
+    "Ibeji": {
+      "callings": {
+        "0": "healer",
+        "1": "judge",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "artistry (dance)",
+        "1": "beasts (monkeys)",
+        "2": "death",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "prosperity",
+        "6": "gun"
+      }
+    },
+    "Ogun": {
+      "callings": {
+        "0": "creator",
+        "1": "hunter",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "epic strength",
+        "2": "epic stamina",
+        "3": "forge",
+        "4": "passion (fear)",
+        "5": "war",
+        "6": "gun"
+      }
+    },
+    "Moremi": {
+      "callings": {
+        "0": "guardian",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "deception",
+        "2": "fertility",
+        "3": "fire",
+        "4": "passion",
+        "5": "gun"
+      }
+    },
+    "Obatala": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "artistry (sculpture)",
+        "1": "health",
+        "2": "order",
+        "3": "sky",
+        "4": "gun"
+      }
+    },
+    "Oduduwa": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "darkness",
+        "1": "earth",
+        "2": "order",
+        "3": "war",
+        "4": "gun"
+      }
+    },
+    "Oshossi": {
+      "callings": {
+        "0": "hunter",
+        "1": "liminal",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "beasts",
+        "1": "epic dexterity",
+        "2": "prosperity",
+        "3": "wild",
+        "4": "gun"
+      }
+    },
+    "Oya Iyansan": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (bull)",
+        "1": "epic strength",
+        "2": "epic dexterity",
+        "3": "death",
+        "4": "prosperity",
+        "5": "sky",
+        "6": "water",
+        "7": "gun"
+      }
+    },
+    "Orunmila": {
+      "callings": {
+        "0": "healer",
+        "1": "judge",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "fortune",
+        "1": "sky",
+        "2": "stars",
+        "3": "wild",
+        "4": "gun"
+      }
+    },
+    "Orisha-Oko": {
+      "callings": {
+        "0": "hunter",
+        "1": "judge",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (of burden, birds)",
+        "1": "fertility",
+        "2": "fortune",
+        "3": "order",
+        "4": "prosperity",
+        "5": "gun"
+      }
+    },
+    "Sonponna": {
+      "callings": {
+        "0": "healer",
+        "1": "hunter",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "death",
+        "1": "earth",
+        "2": "health",
+        "3": "passion (spite)",
+        "4": "wild",
+        "5": "gun"
+      }
+    },
+    "Osanyin": {
+      "callings": {
+        "0": "healer",
+        "1": "hunter",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (birds)",
+        "1": "epic stamina",
+        "2": "fertility",
+        "3": "fortune",
+        "4": "health",
+        "5": "wild",
+        "6": "gun"
+      }
+    },
+    "Shango": {
+      "callings": {
+        "0": "leader",
+        "1": "lover",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (drums, dance)",
+        "1": "beauty",
+        "2": "epic strength",
+        "3": "fire",
+        "4": "order",
+        "5": "passion",
+        "6": "prosperity",
+        "7": "sky",
+        "8": "war",
+        "9": "gun"
+      }
+    },
+    "Eshu Elegbara": {
+      "callings": {
+        "0": "liminal",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "artistry (storytelling)",
+        "1": "chaos",
+        "2": "deception",
+        "3": "epic dexterity",
+        "4": "fortune",
+        "5": "journeys",
+        "6": "gun"
+      }
+    },
+    "Oshun": {
+      "callings": {
+        "0": "healer",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (bees)",
+        "1": "beauty",
+        "2": "fertility",
+        "3": "fortune",
+        "4": "frost",
+        "5": "health",
+        "6": "passion (love)",
+        "7": "prosperity",
+        "8": "water",
+        "9": "gun"
+      }
+    },
+    "Yemoja-Oboto": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "beasts (cetaceans)",
+        "1": "epic strength",
+        "2": "epic stamina",
+        "3": "fertility",
+        "4": "frost",
+        "5": "journeys",
+        "6": "water",
+        "7": "gun"
+      }
+    }
+  },
+  "Shen": {
+    "Chang'e": {
+      "callings": {
+        "0": "healer",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "beasts (rabbits, toads)",
+        "2": "beauty",
+        "3": "health",
+        "4": "moon",
+        "5": "tianming"
+      }
+    },
+    "Confucius": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry",
+        "1": "order",
+        "2": "passion (filiality)",
+        "3": "tianming"
+      }
+    },
+    "Erlang": {
+      "callings": {
+        "0": "guardian",
+        "1": "hunter",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic stamina",
+        "2": "forge",
+        "3": "war",
+        "4": "water",
+        "5": "tianming"
+      }
+    },
+    "Fuxi": {
+      "callings": {
+        "0": "creator",
+        "1": "hunter",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (musical instruments, writing)",
+        "1": "beasts",
+        "2": "fertility",
+        "3": "forge",
+        "4": "fortune",
+        "5": "health",
+        "6": "order",
+        "7": "sun",
+        "8": "tianming"
+      }
+    },
+    "Guan Yu": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic stamina",
+        "2": "artistry (historical fiction)",
+        "3": "order",
+        "4": "passion (loyalty)",
+        "5": "prosperity",
+        "6": "sky",
+        "7": "war",
+        "8": "tianming"
+      }
+    },
+    "Guanshiyin Pusa": {
+      "callings": {
+        "0": "guardian",
+        "1": "healer",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "deception",
+        "2": "health",
+        "3": "journeys",
+        "4": "passion (mercy)",
+        "5": "water",
+        "6": "tianming"
+      }
+    },
+    "Huangdi": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts",
+        "1": "death",
+        "2": "earth",
+        "3": "forge",
+        "4": "health",
+        "5": "order",
+        "6": "prosperity",
+        "7": "war",
+        "8": "tianming"
+      }
+    },
+    "Laozi": {
+      "callings": {
+        "0": "leader",
+        "1": "sage",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "artistry (poetry)",
+        "2": "chaos",
+        "3": "darkness",
+        "4": "health",
+        "5": "order",
+        "6": "water",
+        "7": "tianming"
+      }
+    },
+    "Nuwa": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "fertility",
+        "2": "forge",
+        "3": "health",
+        "4": "moon",
+        "5": "sky",
+        "6": "tianming"
+      }
+    },
+    "Prince Nezha": {
+      "callings": {
+        "0": "guardian",
+        "1": "trickster",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "epic strength",
+        "2": "artistry (animation)",
+        "3": "health",
+        "4": "war",
+        "5": "tianming"
+      }
+    },
+    "Sun Wukong": {
+      "callings": {
+        "0": "liminal",
+        "1": "trickster",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "epic strength",
+        "1": "epic dexterity",
+        "2": "epic stamina",
+        "3": "artistry (opera)",
+        "4": "beasts (monkeys)",
+        "5": "chaos",
+        "6": "deception",
+        "7": "journeys",
+        "8": "war",
+        "9": "tianming"
+      }
+    },
+    "Yandi Shennongshi": {
+      "callings": {
+        "0": "healer",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "artistry (storytelling)",
+        "2": "fertility",
+        "3": "fire",
+        "4": "forge",
+        "5": "health",
+        "6": "prosperity",
+        "7": "tianming"
+      }
+    }
+  },
+  "Teotl": {
+    "Chalchihuitlicue": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "beasts (aquatic animal)",
+        "1": "fertility",
+        "2": "water",
+        "3": "nextlahualli"
+      }
+    },
+    "Chantico": {
+      "callings": {
+        "0": "healer",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "fire",
+        "1": "forge",
+        "2": "order",
+        "3": "prosperity",
+        "4": "nextlahualli"
+      }
+    },
+    "Chicomecoatl and Centeotl": {
+      "callings": {
+        "0": "healer",
+        "1": "guardian",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "fertility",
+        "2": "prosperity",
+        "3": "nextlahualli"
+      }
+    },
+    "Huitzilopochtli": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (eagle, hummingbird)",
+        "1": "death",
+        "2": "epic strength",
+        "3": "prosperity",
+        "4": "sun",
+        "5": "war",
+        "6": "nextlahualli"
+      }
+    },
+    "Huehuecoyotl": {
+      "callings": {
+        "0": "lover",
+        "1": "sage",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "chaos",
+        "1": "epic dexterity",
+        "2": "passion",
+        "3": "nextlahualli"
+      }
+    },
+    "Mictecacihuatl": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (bats, owls, spiders)",
+        "1": "darkness",
+        "2": "death",
+        "3": "passion (all)",
+        "4": "nextlahualli"
+      }
+    },
+    "Quetzalcoatl": {
+      "callings": {
+        "0": "creator",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (writing, feathers)",
+        "1": "beasts (all)",
+        "2": "fertility",
+        "3": "journeys",
+        "4": "order",
+        "5": "sky",
+        "6": "stars",
+        "7": "nextlahualli"
+      }
+    },
+    "Tezcatlipoca": {
+      "callings": {
+        "0": "trickster",
+        "1": "hunter",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "beasts (jaguar, turkey)",
+        "1": "chaos",
+        "2": "darkness",
+        "3": "deception",
+        "4": "earth",
+        "5": "fortune",
+        "6": "war",
+        "7": "nextlahualli"
+      }
+    },
+    "Tlaloc": {
+      "callings": {
+        "0": "guardian",
+        "1": "healer",
+        "2": "hunter"
+      },
+      "purviews": {
+        "0": "death",
+        "1": "earth",
+        "2": "fertility",
+        "3": "frost",
+        "4": "health",
+        "5": "sky",
+        "6": "nextlahualli"
+      }
+    },
+    "Itzpapalotl": {
+      "callings": {
+        "0": "hunter",
+        "1": "lover",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "beasts (all)",
+        "1": "darkness",
+        "2": "death",
+        "3": "fertility",
+        "4": "stars",
+        "5": "war",
+        "6": "nextlahualli"
+      }
+    },
+    "Xipe Totec": {
+      "callings": {
+        "0": "creator",
+        "1": "healer",
+        "2": "hunter"
+      },
+      "purviews": {
+        "0": "fertility",
+        "1": "forge",
+        "2": "health",
+        "3": "war",
+        "4": "nextlahualli"
+      }
+    },
+    "Xochipilli": {
+      "callings": {
+        "0": "lover",
+        "1": "guardian",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "artistry (all)",
+        "1": "beauty",
+        "2": "fortune",
+        "3": "passion (all)",
+        "4": "prosperity",
+        "5": "nextlahualli"
+      }
+    },
+    "Xochiquetzal": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "lover"
+      },
+      "purviews": {
+        "0": "artistry (all)",
+        "1": "beauty",
+        "2": "epic dexterity",
+        "3": "fertility",
+        "4": "fortune",
+        "5": "passion (all)",
+        "6": "prosperity",
+        "7": "nextlahualli"
+      }
+    }
+  },
+  "Theoi": {
+    "Aphrodite": {
+      "callings": {
+        "0": "lover",
+        "1": "guardian",
+        "2": "creator "
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "fertility",
+        "2": "passion (desire)",
+        "3": "passion (love)",
+        "4": "prosperity",
+        "5": "metamorphosis"
+      }
+    },
+    "Apollo": {
+      "callings": {
+        "0": "healer",
+        "1": "judge",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry",
+        "1": "epic dexterity",
+        "2": "health",
+        "3": "sun ",
+        "4": "metamorphosis"
+      }
+    },
+    "Ares": {
+      "callings": {
+        "0": "warrior",
+        "1": "lover",
+        "2": "guardian"
+      },
+      "purviews": {
+        "0": "chaos",
+        "1": "fertility",
+        "2": "order",
+        "3": "passion (rage)",
+        "4": "passion (valor)",
+        "5": "prosperity",
+        "6": "war",
+        "7": "metamorphosis"
+      }
+    },
+    "Artemis": {
+      "callings": {
+        "0": "hunter",
+        "1": "guardian",
+        "2": "healer"
+      },
+      "purviews": {
+        "0": "beasts",
+        "1": "epic dexterity",
+        "2": "health",
+        "3": "moon",
+        "4": "wild",
+        "5": "metamorphosis"
+      }
+    },
+    "Athena": {
+      "callings": {
+        "0": "guardian",
+        "1": "warrior",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (weaving)",
+        "1": "beasts (owl)",
+        "2": "epic dexterity",
+        "3": "order",
+        "4": "war",
+        "5": "metamorphosis"
+      }
+    },
+    "Demeter": {
+      "callings": {
+        "0": "creator",
+        "1": "guardian",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "epic stamina",
+        "2": "fertility",
+        "3": "order ",
+        "4": "metamorphosis"
+      }
+    },
+    "Dionysus": {
+      "callings": {
+        "0": "lover",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "artistry (theatre)",
+        "1": "chaos",
+        "2": "deception",
+        "3": "fertility",
+        "4": "passion (ecstasy) ",
+        "5": "wild",
+        "6": "metamorphosis"
+      }
+    },
+    "Hades": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "darkness",
+        "1": "death",
+        "2": "earth",
+        "3": "prosperity ",
+        "4": "metamorphosis"
+      }
+    },
+    "Hephaestus": {
+      "callings": {
+        "0": "creator",
+        "1": "trickster",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "fire",
+        "2": "forge",
+        "3": "fortune",
+        "4": "metamorphosis"
+      }
+    },
+    "Hera": {
+      "callings": {
+        "0": "judge",
+        "1": "lover",
+        "2": "leader "
+      },
+      "purviews": {
+        "0": "beauty",
+        "1": "fertility",
+        "2": "health",
+        "3": "order",
+        "4": "passion (fidelity)",
+        "5": "prosperity",
+        "6": "metamorphosis"
+      }
+    },
+    "Hermes": {
+      "callings": {
+        "0": "trickster",
+        "1": "liminal",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "death",
+        "1": "deception",
+        "2": "epic dexterity",
+        "3": "journeys",
+        "4": "prosperity",
+        "5": "metamorphosis"
+      }
+    },
+    "Hestia": {
+      "callings": {
+        "0": "guardian",
+        "1": "healer",
+        "2": "judge "
+      },
+      "purviews": {
+        "0": "fire",
+        "1": "fortune",
+        "2": "order",
+        "3": "prosperity",
+        "4": "metamorphosis"
+      }
+    },
+    "Persephone": {
+      "callings": {
+        "0": "judge",
+        "1": "leader",
+        "2": "liminal"
+      },
+      "purviews": {
+        "0": "death",
+        "1": "fertility",
+        "2": "health",
+        "3": "metamorphosis"
+      }
+    },
+    "Poseidon": {
+      "callings": {
+        "0": "guardian",
+        "1": "hunter",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "beasts (horse)",
+        "1": "epic strength",
+        "2": "earth",
+        "3": "water",
+        "4": "metamorphosis"
+      }
+    },
+    "Zeus": {
+      "callings": {
+        "0": "leader",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "deception",
+        "1": "epic strength",
+        "2": "epic stamina",
+        "3": "fortune",
+        "4": "order",
+        "5": "sky ",
+        "6": "metamorphosis"
+      }
+    }
+  },
+  "Tuatha": {
+    "Aengus": {
+      "callings": {
+        "0": "guardian",
+        "1": "lover",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "beasts (birds)",
+        "1": "beauty",
+        "2": "deception",
+        "3": "moon",
+        "4": "passion (love)",
+        "5": "geasa"
+      }
+    },
+    "Brigid": {
+      "callings": {
+        "0": "healer",
+        "1": "sage",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "artistry (poetry)",
+        "1": "fertility",
+        "2": "fire",
+        "3": "forge",
+        "4": "health",
+        "5": "geasa"
+      }
+    },
+    "Dian Cecht": {
+      "callings": {
+        "0": "creator",
+        "1": "healer",
+        "2": "judge"
+      },
+      "purviews": {
+        "0": "fertility",
+        "1": "health",
+        "2": "water",
+        "3": "geasa"
+      }
+    },
+    "Donn": {
+      "callings": {
+        "0": "leader",
+        "1": "liminal",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "darkness",
+        "1": "death",
+        "2": "journeys",
+        "3": "sky",
+        "4": "geasa"
+      }
+    },
+    "Goibniu": {
+      "callings": {
+        "0": "creator",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (brewing)",
+        "1": "epic stamina",
+        "2": "forge",
+        "3": "health",
+        "4": "geasa"
+      }
+    },
+    "Lugh Lamhfhada": {
+      "callings": {
+        "0": "creator",
+        "1": "leader",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (all)",
+        "1": "epic dexterity",
+        "2": "epic strength",
+        "3": "forge",
+        "4": "health",
+        "5": "order",
+        "6": "prosperity",
+        "7": "war",
+        "8": "geasa"
+      }
+    },
+    "Manannan mac Lir": {
+      "callings": {
+        "0": "guardian",
+        "1": "liminal",
+        "2": "trickster"
+      },
+      "purviews": {
+        "0": "deception",
+        "1": "journeys",
+        "2": "prosperity",
+        "3": "stars",
+        "4": "water",
+        "5": "geasa"
+      }
+    },
+    "Nuada": {
+      "callings": {
+        "0": "leader",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "order",
+        "1": "prosperity",
+        "2": "war",
+        "3": "geasa"
+      }
+    },
+    "Ogma": {
+      "callings": {
+        "0": "guardian",
+        "1": "sage",
+        "2": "warrior"
+      },
+      "purviews": {
+        "0": "artistry (oration, poetry)",
+        "1": "epic strength",
+        "2": "fortune",
+        "3": "wild",
+        "4": "geasa"
+      }
+    },
+    "Eriu": {
+      "callings": {
+        "0": "guardian",
+        "1": "judge",
+        "2": "leader"
+      },
+      "purviews": {
+        "0": "earth",
+        "1": "fertility",
+        "2": "order",
+        "3": "prosperity",
+        "4": "geasa"
+      }
+    },
+    "The Dagda": {
+      "callings": {
+        "0": "guardian",
+        "1": "leader",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "epic stamina",
+        "1": "epic strength",
+        "2": "fertility",
+        "3": "forge",
+        "4": "prosperity",
+        "5": "war",
+        "6": "geasa"
+      }
+    },
+    "The Morrigan": {
+      "callings": {
+        "0": "liminal",
+        "1": "lover",
+        "2": "sage"
+      },
+      "purviews": {
+        "0": "beasts (crows, cattle, horses)",
+        "1": "chaos",
+        "2": "death",
+        "3": "epic dexterity",
+        "4": "fortune",
+        "5": "prosperity",
+        "6": "war ",
+        "7": "geasa"
+      }
+    }
+  }
+}

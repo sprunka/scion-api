@@ -1,0 +1,214 @@
+{
+  "Aesir": {
+    "Odin": {
+      "Callings": [
+        "Leader",
+        "Sage",
+        "Trickster"
+      ],
+      "Purviews": [
+        "Fortune",
+        "Journeys",
+        "War",
+        "Artistry (Poetry)",
+        "Death",
+        "Deception",
+        "Epic Stamina",
+        "Wyrd"
+      ]
+    },
+    "Thor": {
+      "Callings": [
+        "Guardian",
+        "Leader",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Stamina",
+        "Fertility",
+        "Sky",
+        "Wyrd"
+      ]
+    },
+    "Frigg": {
+      "Callings": [
+        "Sage",
+        "Guardian",
+        "Lover"
+      ],
+      "Purviews": [
+        "Beasts (Falcon)",
+        "Fortune",
+        "Order",
+        "Wild",
+        "Wyrd"
+      ]
+    },
+    "Hel": {
+      "Callings": [
+        "Liminal",
+        "Guardian",
+        "Judge"
+      ],
+      "Purviews": [
+        "Death",
+        "Frost",
+        "Forge",
+        "Passion (Fear",
+        "Disgust)",
+        "Health",
+        "Wyrd"
+      ]
+    },
+    "Baldr": {
+      "Callings": [
+        "Guardian",
+        "Liminal",
+        "Lover"
+      ],
+      "Purviews": [
+        "Passion (Love",
+        "Peace)",
+        "Health",
+        "Epic Stamina",
+        "Sun",
+        "Wyrd"
+      ]
+    },
+    "Heimdallr": {
+      "Callings": [
+        "Creator",
+        "Guardian",
+        "Hunter"
+      ],
+      "Purviews": [
+        "Artistry (Horns)",
+        "Beauty",
+        "Epic Stamina",
+        "Journeys",
+        "Wyrd"
+      ]
+    },
+    "Sif": {
+      "Callings": [
+        "Creator",
+        "Guardian",
+        "Lover"
+      ],
+      "Purviews": [
+        "Beauty",
+        "Earth",
+        "Fertility",
+        "Order",
+        "Wyrd"
+      ]
+    },
+    "Loki": {
+      "Callings": [
+        "Liminal",
+        "Lover",
+        "Trickster"
+      ],
+      "Purviews": [
+        "Deception",
+        "Chaos",
+        "Fire",
+        "Epic Strength",
+        "Wyrd"
+      ]
+    },
+    "Tyr": {
+      "Callings": [
+        "Judge",
+        "Leader",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Stamina",
+        "Order",
+        "Passion (Courage)",
+        "War",
+        "Wyrd"
+      ]
+    },
+    "Freya": {
+      "Callings": [
+        "Lover",
+        "Guardian",
+        "Sage"
+      ],
+      "Purviews": [
+        "Beauty",
+        "Death",
+        "Epic Stamina",
+        "Fertility",
+        "Fortune",
+        "Passion (Love",
+        "Lust)",
+        "War",
+        "Wyrd"
+      ]
+    },
+    "Freyr": {
+      "Callings": [
+        "Lover",
+        "Leader",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Beauty",
+        "Fertility",
+        "Order",
+        "War",
+        "Wild",
+        "Wyrd"
+      ]
+    },
+    "Skadi": {
+      "Callings": [
+        "Hunter",
+        "Warrior",
+        "Judge"
+      ],
+      "Purviews": [
+        "Earth",
+        "Epic Dexterity",
+        "Journeys",
+        "Order",
+        "Frost",
+        "Wyrd"
+      ]
+    },
+    "Njordr": {
+      "Callings": [
+        "Creator",
+        "Hunter",
+        "Liminal"
+      ],
+      "Purviews": [
+        "Fertility",
+        "Fire",
+        "Journeys",
+        "Prosperity",
+        "Sky",
+        "Water",
+        "Wyrd"
+      ]
+    },
+    "Bragi": {
+      "Callings": [
+        "Creator",
+        "Guardian",
+        "Sage"
+      ],
+      "Purviews": [
+        "Wyrd",
+        "Artistry (Storytelling, Poetry, Song)",
+        "Epic Dexterity",
+        "Fortune",
+        "Passion (Joy)"
+      ]
+    }
+  }
+}

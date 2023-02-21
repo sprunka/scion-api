@@ -1,0 +1,85 @@
+{
+    "Draq": {
+        "Basmu": {
+            "callings": {
+                "0": "Destroyer",
+                "1": "Judge",
+                "2": "Predator"
+            },
+            "memory": {
+                "0": "Losing your temper",
+                "1": "Indulging in wanton destruction",
+                "2": "A second wind in a fight"
+            },
+            "magic": {
+                "0": "Pandemonium",
+                "1": "Decay",
+                "2": "Fear",
+                "3": "Transformation",
+                "4": "Weather Control"
+            }
+        },
+        "Bolla": {
+            "callings": {
+                "0": "Destroyer",
+                "1": "Collector",
+                "2": "Predator"
+            },
+            "memory": {
+                "0": "Fight or flight situations",
+                "1": "Protecting what is yours",
+                "2": "The temptation of unknown knowledge"
+            },
+            "magic": {
+                "0": "Pandemonium",
+                "1": "Flight",
+                "2": "Illusion",
+                "3": "Luck",
+                "4": "Understanding"
+            }
+        },
+        "Mushussu": {
+            "callings": {
+                "0": "Guardian",
+                "1": "Judge",
+                "2": "Watcher"
+            },
+            "memory": {
+                "0": "Adapting to an impossible situation",
+                "1": "Narrowly escaping life of death situations",
+                "2": "A lone survivor’s guilt"
+            },
+            "magic": {
+                "0": "Pandemonium",
+                "1": "Animal Control",
+                "2": "Elemental Manipulation (Fire)",
+                "3": "Luck",
+                "4": "Transformation"
+            }
+        },
+        "Leviathan": {
+            "callings": {
+                "0": "Guardian",
+                "1": "Judge",
+                "2": "Watcher"
+            },
+            "memory": {
+                "0": "Adapting to an impossible situation",
+                "1": "Narrowly escaping life of death situations",
+                "2": "A lone survivor’s guilt"
+            },
+            "magic": {
+                "0": "Pandemonium",
+                "1": "Animal Control",
+                "2": "Elemental Manipulation (Fire)",
+                "3": "Luck",
+                "4": "Transformation"
+            }
+        }
+    },
+    "Joka": {},
+    "Lindwurms": {},
+    "Long": {},
+    "Naga": {},
+    "Serpents": {}
+}

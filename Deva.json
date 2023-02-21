@@ -1,0 +1,262 @@
+{
+  "Deva": {
+    "Agni": {
+      "Callings": [
+        "Guardian",
+        "Liminal",
+        "Sage"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Fire",
+        "Journeys",
+        "Prosperity",
+        "Water",
+        "Yoga"
+      ]
+    },
+    "Gurga": {
+      "Callings": [
+        "Guardian",
+        "Hunter",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Deception",
+        "Fertility",
+        "War",
+        "Yoga"
+      ]
+    },
+    "Ganesha": {
+      "Callings": [
+        "Guardian",
+        "Liminal",
+        "Sage"
+      ],
+      "Purviews": [
+        "Artistry (Dance, Writing)",
+        "Beasts (Elephants)",
+        "Chaos",
+        "Fortune",
+        "Journeys",
+        "Prosperity",
+        "Yoga"
+      ]
+    },
+    "Indra": {
+      "Callings": [
+        "Guardian",
+        "Leader",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Beasts (Cattle)",
+        "Fertility",
+        "Order",
+        "Wild",
+        "Sky",
+        "War",
+        "Yoga"
+      ]
+    },
+    "Kali": {
+      "Callings": [
+        "Guardian",
+        "Liminal",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Artistry (Dance)",
+        "Chaos",
+        "Darkness",
+        "Death",
+        "Deception",
+        "Fire",
+        "Yoga"
+      ]
+    },
+    "Karttikeya": {
+      "Callings": [
+        "Leader",
+        "Sage",
+        "Warrior"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Beauty",
+        "Stars",
+        "War",
+        "Yoga"
+      ]
+    },
+    "Lakshmi": {
+      "Callings": [
+        "Judge",
+        "Leader",
+        "Lover"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Beauty",
+        "Earth",
+        "Fertility",
+        "Fortune",
+        "Order",
+        "Passion (Joy, Love)",
+        "Prosperity",
+        "Yoga"
+      ]
+    },
+    "Parvati": {
+      "Callings": [
+        "Creator",
+        "Lover",
+        "Trickster"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Stamina",
+        "Artistry (Dance)",
+        "Beauty",
+        "Earth",
+        "Fertility",
+        "Frost",
+        "Passion (Devotion, Love)",
+        "Yoga"
+      ]
+    },
+    "Sarasvati": {
+      "Callings": [
+        "Creator",
+        "Healer",
+        "Sage"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Artistry",
+        "Health",
+        "Water",
+        "Yoga"
+      ]
+    },
+    "Shiva": {
+      "Callings": [
+        "Hunter",
+        "Lover",
+        "Sage"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Artistry (Dance)",
+        "Beasts (Monkeys)",
+        "Chaos",
+        "Death",
+        "Deception",
+        "Fertility",
+        "Fire",
+        "Moon",
+        "Sky",
+        "Yoga"
+      ]
+    },
+    "Surya": {
+      "Callings": [
+        "Healer",
+        "Leader",
+        "Sage"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Fire",
+        "Health",
+        "Journeys",
+        "Stars",
+        "Sun",
+        "Yoga"
+      ]
+    },
+    "Varuna": {
+      "Callings": [
+        "Guardian",
+        "Judge",
+        "Leader"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Darkness",
+        "Fertility",
+        "Order",
+        "Sky",
+        "Sun",
+        "Water",
+        "Yoga"
+      ]
+    },
+    "Vishnu": {
+      "Callings": [
+        "Guardian",
+        "Lover",
+        "Trickster"
+      ],
+      "Purviews": [
+        "Epic Strength",
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Artistry (Dance, Wind Instruments)",
+        "Beauty",
+        "Deception",
+        "Order",
+        "Passion (Hope)",
+        "Yoga"
+      ]
+    },
+    "Yamaraja": {
+      "Callings": [
+        "Judge",
+        "Leader",
+        "Liminal"
+      ],
+      "Purviews": [
+        "Epic Dexterity",
+        "Epic Stamina",
+        "Darkness",
+        "Death",
+        "Journeys",
+        "Order",
+        "Yoga"
+      ]
+    },
+    "Vishvakarman": {
+      "Callings": [
+        "Creator",
+        "Guardian",
+        "Liminal"
+      ],
+      "Purviews": [
+        "Artistry (All)",
+        "Beasts (Doves)",
+        "Chaos",
+        "Forge",
+        "Order",
+        "Prosperity",
+        "Yoga"
+      ]
+    }
+  }
+}
